@@ -1,0 +1,7 @@
+- **터널**
+  - 라우팅인건가??
+  - 터널을 찾아봐도 시원한 얘기는 없었는데, 깃 웹훅을 로컬 젠킨스로 보내기 위해 [ngrok](https://ngrok.com/)를 써봤는데 이 기술이 [ngrok 터널](https://ngrok.com/docs/secure-tunnels/tunnels/) 이라고한다.
+  - 원리는 모르겠다
+- **URL 문법 중 파라미터와 쿼리스트링의 차이점**
+  - 찾아봤는데 사람들이 파라미터와 쿼리스트링을 비슷한 의미로 써서 원하는 대답을 찾을수는 없었다..
+  - [`MDN` Parameters](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_URL#parameters) 여기에서도 쿼리 스트링을 파라미터로 설명한다...
