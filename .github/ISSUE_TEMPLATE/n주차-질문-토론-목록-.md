@@ -1,7 +1,7 @@
 ---
 name: 'N주차 질문/토론 목록 '
 about: 'N주차 스터디마다 생성 '
-title: '이슈의 제목은 "N주차: 해당 주차의 제목" 으로 해주세요 '
+title: 'N주차: 제목'
 labels: ''
 assignees: ''
 
